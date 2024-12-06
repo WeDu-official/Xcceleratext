@@ -191,6 +191,8 @@ to open a file# Ctrl + o
 to save a file # Ctrl + s
 to save a file as ...  # Alt + s
 to close the editor # Ctrl + q
+to zoom in # Ctrl + (+)
+to zoom out # Ctrl + (-)
 to look up all shortcuts here  # F1
 to open the about window  # F2""", "shortcut", size=(400, 400))
         dlg.ShowModal()
