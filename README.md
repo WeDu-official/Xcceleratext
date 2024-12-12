@@ -2,7 +2,7 @@
 
  a fast,simple and shortcut driven based text editor
 
-~after 1.0 update log~:
+after 1.0 update log:
 
 
 -THE new W1.0(WeDu software base environment):
