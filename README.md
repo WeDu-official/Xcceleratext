@@ -1,4 +1,6 @@
 # Xcceleratext
+<img width="157" alt="logo" src="https://github.com/user-attachments/assets/ce9a1b5b-4c86-40dc-bb95-48ba4ae895f3" />
+
 
  a fast,simple and shortcut driven based text editor
 
